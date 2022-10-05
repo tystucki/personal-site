@@ -94,6 +94,7 @@ h3 {
     color: white;
     font-size: 25px;
     margin-bottom: 50px;
+    width: 500px;
 }
 
 h4 {
@@ -138,9 +139,10 @@ h4 {
 
 }
 
+
 .about img{
     height: auto;
-    width: 330px;
+    width: 560px;
 }
 
 .about-text {
@@ -339,7 +341,6 @@ footer p:nth-child(2){
 
 .social {
     display: flex;
-
 }
 
 .social a{
@@ -364,4 +365,8 @@ footer p:nth-child(2){
     color: #a1baa2;
     font-size: 50px;
     justify-content: space-around;
+}
+
+.end {
+    color: white;
 }
