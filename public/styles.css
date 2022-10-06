@@ -313,6 +313,10 @@ h5 {
     text-align: center;
 }
 
+.projects h5{
+    font-size: 25px;
+}
+
 footer {
 position: relative;
 width: 100%;
